@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D7Y2FSVMzotdSMdqrSSyf4SHVSMw8MjvTvSBjnpg62pjTvw7W0zT8YExZplwV9yjeh4Uz4itXzN+TPuJQTobdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamad\\source\\repos\\ProjetBase de données\\ProjetBase de données.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamad\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\hamad\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\hamad\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512"
+  ],
+  "logs": []
+}

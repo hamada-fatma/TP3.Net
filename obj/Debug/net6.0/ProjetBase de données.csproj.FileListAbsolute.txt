@@ -1,0 +1,41 @@
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\appsettings.json
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\ProjetBase de données.staticwebassets.runtime.json
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\ProjetBase de données.exe
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\ProjetBase de données.deps.json
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\ProjetBase de données.runtimeconfig.json
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\ProjetBase de données.dll
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\ProjetBase de données.pdb
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\hamad\source\repos\ProjetBase de données\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\ProjetBase de données.csproj.AssemblyReference.cache
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\ProjetBase de données.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\ProjetBase de données.AssemblyInfoInputs.cache
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\ProjetBase de données.AssemblyInfo.cs
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\ProjetBase de données.csproj.CoreCompileInputs.cache
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\ProjetBase de données.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\ProjetBase de données.RazorAssemblyInfo.cache
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\ProjetBase de données.RazorAssemblyInfo.cs
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\staticwebassets\msbuild.ProjetBase de données.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjetBase de données.props
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjetBase de données.props
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjetBase de données.props
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\scopedcss\bundle\ProjetBase de données.styles.css
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\scopedcss\projectbundle\ProjetBase de données.bundle.scp.css
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\ProjetBase de données.csproj.CopyComplete
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\ProjetBase de données.dll
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\refint\ProjetBase de données.dll
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\ProjetBase de données.pdb
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\ProjetBase de données.genruntimeconfig.cache
+C:\Users\hamad\source\repos\ProjetBase de données\obj\Debug\net6.0\ref\ProjetBase de données.dll
